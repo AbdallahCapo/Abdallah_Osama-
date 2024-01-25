@@ -2,7 +2,7 @@
 Data Exploration and Preprocessing
 Data Overview:
 
-We examined the dataset and found that it comprises 148,654 rows and 13 columns.
+I examined the dataset and found that it comprises 148,654 rows and 13 columns.
 Column Types:
 
 Utilizing the info method, we determined that most columns are of the float type.
